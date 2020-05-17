@@ -14,5 +14,3 @@ Features:
 * Connectable gadgets allow you to build basic circuits to make the world more hospitable to your pets!
 
 
-
-
