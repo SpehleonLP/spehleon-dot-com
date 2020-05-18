@@ -1,4 +1,4 @@
-Spehleon (TM) is a video game development company created to produce first *Lifaundi* and hopefully many other games! 
+Spehleon <sup>TM</sup> is a video game development company created to produce first *Lifaundi* and hopefully many other games! 
 
 Initially created as a resume project in 2016, *Lifaundi* grew to the point that I realized I needed to hire others to get it finished.  It is a virtual pet game of the sort that hasn't been around since the 90s--inspired by Creatures (1997)--the game that really *was* my childhood--Lifaundi is intended as both a game and a teaching tool for biology. 
 
